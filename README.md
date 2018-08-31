@@ -4,6 +4,5 @@ Tetris by linengyin
 下载可直接使用，游戏操作 左移：<-键 右移：->键 加速：下键 变形：上键 暂停：空格键
 ； 源程序在TetrisBylinengyin文件里
 
-按下 Preview changes可浏览图片
 
 ![image](https://github.com/linengyin/Tetris/blob/master/images/Tetris.png)
